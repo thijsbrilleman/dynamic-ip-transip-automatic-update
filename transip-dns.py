@@ -14,7 +14,7 @@ import ipaddress
 LOGIN = 'transip_username'
 DOMAIN = 'example.com'
 RECORD_NAME = '@'
-LOGFILE = 'location/of/logfile/to/write/to'
+LOGFILE = 'dns.log'
 LOGLEVEL = 'ERROR'  # Used levels are: "INFO" and "ERROR"
 PRIVATE_KEY = '''-----BEGIN PRIVATE KEY-----
 .... (paste api key here) ....
